@@ -1,5 +1,5 @@
 # {Q1A Paper Title}
-written by: [Caitlin Oxley](https://github.com/yourname *optional link*)
+written by: [Caitlin Oxley]
 
 ### {Q1B Virus Name}
 Turning Crap Into Clues: The Curious Case of Obelisk 371
@@ -75,8 +75,8 @@ Therefore, It can be hypothesized that Obelisk 371 is conserved between differen
 
 ### Other (bonus) sections
 
-![Alt](ObelinBlantp.png)
-![Alt](obelintreedendr.png)
+![Alt](ObelinBlastp.png)
+![Alt](obelintreedendro.png)
 
 ## Discussion
 
@@ -93,7 +93,7 @@ evaluated the impact of oral typhoid vaccines (Ty21a and M01ZH09) on the gut mic
 
 From these datasets, one can conclude with low confidence  that Obelisk 371 is found in the human gut metagenome, although further research is required to confirm this with higher certainty. More confidently, it is clear that Obelisk 371 is present in diverse populations, underscoring its widespread distribution. Like other obelisks, it is circular in structure and encodes for obelin, a characteristic trait that is shared across its family.
 
-![Alt](pebblescout80_.png)
+![Alt](pebblescout80%.png)
 
 
 ## References
