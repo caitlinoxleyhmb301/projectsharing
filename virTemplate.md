@@ -5,7 +5,8 @@ written by: [Caitlin Oxley]
 Turning Crap Into Clues: The Curious Case of Obelisk 371
 
 [Optional: Tutorial 2 Generative AI Cover-art](img/<virusname>/cover.png)
-![Alt](00_cover_art.<format>.jpeg)
+![Alt](![00_cover_art.<format>.jpeg)
+)
 
 ## Abstract
 
