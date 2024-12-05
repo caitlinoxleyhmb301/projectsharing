@@ -1,12 +1,12 @@
-# {Q1A Paper Title}
+# Turning Crap Into Clues: The Curious Case of Obelisk 371
 written by: [Caitlin Oxley]
 
-### {Q1B Virus Name}
-Turning Crap Into Clues: The Curious Case of Obelisk 371
+### Obelisk371
+Obelisk371
 
-[Optional: Tutorial 2 Generative AI Cover-art](img/<virusname>/cover.png)
-![Alt](![00_cover_art.<format>.jpeg)
-)
+
+![Alt](![coverart.jpeg)
+
 
 ## Abstract
 
