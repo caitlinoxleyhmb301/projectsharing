@@ -2,10 +2,7 @@
 written by: [Caitlin Oxley]
 
 ### Obelisk371
-Obelisk371
 
-
-![Alt](![coverart.jpeg)
 
 
 ## Abstract
